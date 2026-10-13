@@ -1,0 +1,14 @@
+# Arquivos gerados ao rodar o exercício
+saidas/*
+!saidas/.gitkeep
+
+# Segredos / configuração local (o .env.example é o modelo e vai no commit)
+.env
+.env.*
+!.env.example
+
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
